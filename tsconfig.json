@@ -24,6 +24,10 @@
       "progress-bar": [
         "dist/progress-bar/progress-bar",
         "dist/progress-bar"
+      ],
+      "sidebar": [
+        "dist/sidebar/sidebar",
+        "dist/sidebar"
       ]
     },
     "target": "es2017",
